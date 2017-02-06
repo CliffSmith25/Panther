@@ -1,0 +1,5 @@
+export const TOGGLE_TASK_COMPLETE = 'TOGGLE_TASK_COMPLETE'
+export const ADD_TASK = 'ADD_TASK'
+export const DELETE_TASK = 'DELETE_TASK'
+export const ASSIGN_TASK = 'ASSIGN_TASK'
+export const REJECT_TASK = 'REJECT_TASK'
